@@ -1,0 +1,97 @@
+{
+  "app": {
+    "name": "Resort Management System",
+    "tagline": "Comprehensive Hotel & Resort Management"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "confirm": "Confirm"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "rememberMe": "Remember me",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "welcomeBack": "Welcome Back",
+    "createAccount": "Create Account"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcomeMessage": "Welcome back, {{name}}!",
+    "quickStats": "Quick Stats",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions"
+  },
+  "rooms": {
+    "title": "Rooms",
+    "searchRooms": "Search Rooms",
+    "availableRooms": "Available Rooms",
+    "roomNumber": "Room Number",
+    "roomType": "Room Type",
+    "status": "Status",
+    "price": "Price",
+    "perNight": "per night",
+    "amenities": "Amenities",
+    "bookNow": "Book Now",
+    "viewDetails": "View Details"
+  },
+  "reservations": {
+    "title": "Reservations",
+    "myReservations": "My Reservations",
+    "createReservation": "Create Reservation",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Guests",
+    "totalAmount": "Total Amount",
+    "status": "Status",
+    "confirmed": "Confirmed",
+    "pending": "Pending",
+    "cancelled": "Cancelled"
+  },
+  "employees": {
+    "title": "Employees",
+    "tasks": "Tasks",
+    "schedule": "Schedule",
+    "assignedTasks": "Assigned Tasks",
+    "completedTasks": "Completed Tasks",
+    "pendingTasks": "Pending Tasks"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "passwordMismatch": "Passwords do not match",
+    "minLength": "Minimum {{length}} characters required",
+    "maxLength": "Maximum {{length}} characters allowed"
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "serverError": "Server error",
+    "unauthorized": "Unauthorized access",
+    "forbidden": "Access forbidden"
+  }
+}
